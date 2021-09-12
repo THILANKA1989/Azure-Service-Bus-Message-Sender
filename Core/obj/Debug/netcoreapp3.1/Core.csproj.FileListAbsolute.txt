@@ -1,0 +1,10 @@
+C:\Users\DCE User\source\repos\MessageSenderServiceBus\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\DCE User\source\repos\MessageSenderServiceBus\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\DCE User\source\repos\MessageSenderServiceBus\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\DCE User\source\repos\MessageSenderServiceBus\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\DCE User\source\repos\MessageSenderServiceBus\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCE User\source\repos\MessageSenderServiceBus\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\DCE User\source\repos\MessageSenderServiceBus\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\DCE User\source\repos\MessageSenderServiceBus\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\DCE User\source\repos\MessageSenderServiceBus\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\DCE User\source\repos\MessageSenderServiceBus\Core\obj\Debug\netcoreapp3.1\Core.pdb
